@@ -18,14 +18,15 @@ melakukan tag entitas pada kata serta frasa yang dimiliki entitas, untuk meningk
 mengembangkan dan men-training NER untuk memproses data language mengenali berbagai entitas bernama atau numerik, termasuk orang, organisasi, bahasa, acara, dll. Selain entitas
 default ini, juga dapat menambahkan kelas arbitrary ke model NER, dengan melatih (training) model untuk memperbaikinya dengan contoh terlatih (trained) yang lebih baru. serta memiliki Tujuang dan manfaat sebagai berikut : 
 Tujuan dari penelitian ini adalah :
-a. Membangun data set dengan menggunakan library spacy
-b. Membuat model dependency parser dan named entity recognition menggunakan library
+# a. Membangun data set dengan menggunakan library spacy
+
+# b. Membuat model dependency parser dan named entity recognition menggunakan library
 spacy bahasa indonesia
-c. mengevaluasi model dependency parser dan named entity recognition
+# c. mengevaluasi model dependency parser dan named entity recognition
 
 Adapun yang menjadi manfaat proyek adalah sebagai berikut:
-a. Penulis dapat menambah wawasan dan pengalaman secara langsung dalam
+# a. Penulis dapat menambah wawasan dan pengalaman secara langsung dalam
 membangun sebuah model untuk untuk mengekstrak informasi serta nama orang, organisasi,
 lokasi dan waktu.
-b. Sebagai referensi, jika ingin dilakukan pengembangan terhadap proyek.
+# b. Sebagai referensi, jika ingin dilakukan pengembangan terhadap proyek.
  
