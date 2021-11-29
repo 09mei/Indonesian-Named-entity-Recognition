@@ -20,7 +20,7 @@ default ini, juga dapat menambahkan kelas arbitrary ke model NER, dengan melatih
 Tujuan dari penelitian ini adalah :
 ## a. Membangun data set dengan menggunakan library spacy
 ## b. Membuat model dependency parser dan named entity recognition menggunakan library
-##spacy bahasa indonesia
+## spacy bahasa indonesia
 ## c. mengevaluasi model dependency parser dan named entity recognition
 
 Adapun yang menjadi manfaat proyek adalah sebagai berikut:
