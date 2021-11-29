@@ -30,7 +30,7 @@ lokasi dan waktu.
 + b. Sebagai referensi, jika ingin dilakukan pengembangan terhadap proyek.
  
 Pada proyek ini menggunakan ruang lingkup dengan menggunakan data set dari " singgalang " https://github.com/09mei/Indonesian-Named-entity-Recognition/blob/main/SINGGALANG_.csv
-dan mendapat hasil Implementasi yang berhasil. Dengan itu kami menyimpulkan bahwa hasil dari proyek kami berjalan dengan baik memiliki saran dari hasil pengerjaan proyek PBA ini 
+dan mendapat hasil Implementasi yang berhasil dan memiliki hasil laporan akhir pada proyek https://github.com/09mei/Indonesian-Named-entity-Recognition/blob/main/Dokumen/Tarmalitondi-LA-PBA-GSL-21-22.pdf . Dengan itu kami menyimpulkan bahwa hasil dari proyek kami berjalan dengan baik memiliki saran dari hasil pengerjaan proyek PBA ini 
 dapun saran untuk pengembangan penelitian berikutnya adalah sebagai berikut:
 + 1. Menggunakan metode NLP (Natural Language Processing) lainnya pada proses Named
 Entity Recognition (NER) untuk mendapatkan ekstraksi informasi dan klasifikasi sebagai
