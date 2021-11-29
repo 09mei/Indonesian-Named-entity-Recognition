@@ -7,7 +7,9 @@ Indonesian Named-entity Recognition
 + 12S18006 [Mei Kristina Panjaitan](@09mei)
 + 12S18013 [Yudika Purba](@parharangan)
 + 12S18021 [Lastri Sari Naomi Marbun](@LastriMarbun)
- ##Latar Belakang 
+
+
+ #Latar Belakang 
  Named-entity Recognition merupakan bagian dari riset Natural Language Processing (NLP) yang digunakan untuk mengekstrak informasi serta nama orang, organisasi, lokasi dan waktu.
 Dengan tujuan misalkan untuk memperoleh informasi dalam dokumen teks secara manual,manusia harus membaca seluruh isi dokumen, apabila dokumen teks memiliki teks panjang
 diperlukannya waktu sangat lama dalam mendapatkan informasi tersebut dengan itu Namedentity Recognition ini memperoleh informasi dengan waktu yang singkat. [1]
